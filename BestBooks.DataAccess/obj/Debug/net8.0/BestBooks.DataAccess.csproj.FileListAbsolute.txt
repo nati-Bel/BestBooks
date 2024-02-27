@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\BestBooks.DataAccess\bin\Debug\net8.0\BestBooks.DataAccess.deps.json
+C:\Users\User\source\repos\BestBooks.DataAccess\bin\Debug\net8.0\BestBooks.DataAccess.dll
+C:\Users\User\source\repos\BestBooks.DataAccess\bin\Debug\net8.0\BestBooks.DataAccess.pdb
+C:\Users\User\source\repos\BestBooks.DataAccess\bin\Debug\net8.0\BestBooks.Models.dll
+C:\Users\User\source\repos\BestBooks.DataAccess\bin\Debug\net8.0\BestBooks.Models.pdb
+C:\Users\User\source\repos\BestBooks.DataAccess\obj\Debug\net8.0\BestBooks.DataAccess.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\BestBooks.DataAccess\obj\Debug\net8.0\BestBooks.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\BestBooks.DataAccess\obj\Debug\net8.0\BestBooks.DataAccess.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\BestBooks.DataAccess\obj\Debug\net8.0\BestBooks.DataAccess.AssemblyInfo.cs
+C:\Users\User\source\repos\BestBooks.DataAccess\obj\Debug\net8.0\BestBooks.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\BestBooks.DataAccess\obj\Debug\net8.0\BestBook.E3BD74A6.Up2Date
+C:\Users\User\source\repos\BestBooks.DataAccess\obj\Debug\net8.0\BestBooks.DataAccess.dll
+C:\Users\User\source\repos\BestBooks.DataAccess\obj\Debug\net8.0\refint\BestBooks.DataAccess.dll
+C:\Users\User\source\repos\BestBooks.DataAccess\obj\Debug\net8.0\BestBooks.DataAccess.pdb
+C:\Users\User\source\repos\BestBooks.DataAccess\obj\Debug\net8.0\ref\BestBooks.DataAccess.dll

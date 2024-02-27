@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\BestBooks.Models\bin\Debug\net8.0\BestBooks.Models.deps.json
+C:\Users\User\source\repos\BestBooks.Models\bin\Debug\net8.0\BestBooks.Models.dll
+C:\Users\User\source\repos\BestBooks.Models\bin\Debug\net8.0\BestBooks.Models.pdb
+C:\Users\User\source\repos\BestBooks.Models\obj\Debug\net8.0\BestBooks.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\BestBooks.Models\obj\Debug\net8.0\BestBooks.Models.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\BestBooks.Models\obj\Debug\net8.0\BestBooks.Models.AssemblyInfo.cs
+C:\Users\User\source\repos\BestBooks.Models\obj\Debug\net8.0\BestBooks.Models.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\BestBooks.Models\obj\Debug\net8.0\BestBooks.Models.dll
+C:\Users\User\source\repos\BestBooks.Models\obj\Debug\net8.0\refint\BestBooks.Models.dll
+C:\Users\User\source\repos\BestBooks.Models\obj\Debug\net8.0\BestBooks.Models.pdb
+C:\Users\User\source\repos\BestBooks.Models\obj\Debug\net8.0\ref\BestBooks.Models.dll
