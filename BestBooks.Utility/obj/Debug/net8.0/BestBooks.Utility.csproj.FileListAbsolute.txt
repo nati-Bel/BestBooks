@@ -9,3 +9,15 @@ C:\Users\User\source\repos\BestBooks.Utility\obj\Debug\net8.0\BestBooks.Utility.
 C:\Users\User\source\repos\BestBooks.Utility\obj\Debug\net8.0\refint\BestBooks.Utility.dll
 C:\Users\User\source\repos\BestBooks.Utility\obj\Debug\net8.0\BestBooks.Utility.pdb
 C:\Users\User\source\repos\BestBooks.Utility\obj\Debug\net8.0\ref\BestBooks.Utility.dll
+C:\Users\User\source\repos\BestBooks\BestBooks.Utility\bin\Debug\net8.0\BestBooks.Utility.deps.json
+C:\Users\User\source\repos\BestBooks\BestBooks.Utility\bin\Debug\net8.0\BestBooks.Utility.dll
+C:\Users\User\source\repos\BestBooks\BestBooks.Utility\bin\Debug\net8.0\BestBooks.Utility.pdb
+C:\Users\User\source\repos\BestBooks\BestBooks.Utility\obj\Debug\net8.0\BestBooks.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\BestBooks\BestBooks.Utility\obj\Debug\net8.0\BestBooks.Utility.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\BestBooks\BestBooks.Utility\obj\Debug\net8.0\BestBooks.Utility.AssemblyInfo.cs
+C:\Users\User\source\repos\BestBooks\BestBooks.Utility\obj\Debug\net8.0\BestBooks.Utility.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\BestBooks\BestBooks.Utility\obj\Debug\net8.0\BestBooks.Utility.sourcelink.json
+C:\Users\User\source\repos\BestBooks\BestBooks.Utility\obj\Debug\net8.0\BestBooks.Utility.dll
+C:\Users\User\source\repos\BestBooks\BestBooks.Utility\obj\Debug\net8.0\refint\BestBooks.Utility.dll
+C:\Users\User\source\repos\BestBooks\BestBooks.Utility\obj\Debug\net8.0\BestBooks.Utility.pdb
+C:\Users\User\source\repos\BestBooks\BestBooks.Utility\obj\Debug\net8.0\ref\BestBooks.Utility.dll
