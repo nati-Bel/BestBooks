@@ -21,3 +21,4 @@ C:\Users\User\source\repos\BestBooks\BestBooks.Utility\obj\Debug\net8.0\BestBook
 C:\Users\User\source\repos\BestBooks\BestBooks.Utility\obj\Debug\net8.0\refint\BestBooks.Utility.dll
 C:\Users\User\source\repos\BestBooks\BestBooks.Utility\obj\Debug\net8.0\BestBooks.Utility.pdb
 C:\Users\User\source\repos\BestBooks\BestBooks.Utility\obj\Debug\net8.0\ref\BestBooks.Utility.dll
+C:\Users\User\source\repos\BestBooks\BestBooks.Utility\obj\Debug\net8.0\BestBooks.Utility.csproj.AssemblyReference.cache
