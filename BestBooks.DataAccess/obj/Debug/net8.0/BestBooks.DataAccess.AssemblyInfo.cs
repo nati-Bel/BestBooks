@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BestBooks.DataAccess")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7889f07df73c1fdf70df24fca599223bdf4e31c9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+724738709688da0af222d45ee8c4364626f5e161")]
 [assembly: System.Reflection.AssemblyProductAttribute("BestBooks.DataAccess")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BestBooks.DataAccess")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
