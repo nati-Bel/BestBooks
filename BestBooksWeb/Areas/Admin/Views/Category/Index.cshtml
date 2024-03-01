@@ -20,7 +20,7 @@
 
 
 
-<table class="table table-bordered table-striped" style="width:100%">
+<table id="productsTable" class="table table-bordered table-striped" style="width:100%">
     <thead>
         <tr>
             <th>
@@ -33,7 +33,7 @@
         </tr>
     </thead>
     <tbody>
-        @foreach(var obj in Model)
+        @foreach(var obj in Model.OrderBy(u=>u.DisplayOrder))
         {
             <tr>
                 <td width="50%">
